@@ -8,9 +8,9 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
     //First commit
+    //Formatter
     override fun onCreate(savedInstanceState: Bundle?) {
-
-
+        
         //comment
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
